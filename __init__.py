@@ -1,1 +1,1 @@
-from chessgame import ChessGame 
+from chessai import ChessAi
